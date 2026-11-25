@@ -2,7 +2,7 @@
 <html lang="id">
 <head>
     <meta charset="UTF-8">
-    <title>Daftar Barang</title>
+    <title>Sistem Peminjaman Barang</title>
 </head>
 <body>
     <h1>Daftar Barang SIPINJAM</h1>
